@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /cami-site
+exclude: ['README.md']
